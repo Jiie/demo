@@ -8,4 +8,6 @@ PHP连接数据库模拟注册与登陆
 * 入口文件是reg.html
 * PHP处理脚本是doAction.php
 
+这是一个测试文件。。。。
+
 
