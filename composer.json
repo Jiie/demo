@@ -1,0 +1,14 @@
+{
+    "name": "jiie/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "summer",
+            "email": "1043365027@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
